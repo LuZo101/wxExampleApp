@@ -1,5 +1,5 @@
 # Set the minimum required version of CMake
-#if there is a version just hit cmake --version in your terminal
+#if there is a versionerror just hit cmake --version in your terminal
 cmake_minimum_required(VERSION 3.22)
 
 # Define the project name
